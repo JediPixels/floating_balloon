@@ -23,7 +23,7 @@ If the animation needs only one `AnimationController`, use `SingleTickerProvider
 ## AnimationController Steps
 The `AnimationController` class at first can seem complex to use because of the different classes needed. The following are the basic steps that you take to create a custom animation or multiple animations running at the same time.
 
-![](readmeassets/floating-ballon-frames.png)
+![](readmeassets/floating-balloon-frames.png)
 
 1. Add `AnimationController`.
 2. Add `Animation`.
